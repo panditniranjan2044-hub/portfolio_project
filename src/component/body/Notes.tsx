@@ -21,13 +21,12 @@ const chapters11: Chapter[] = [
 ];
 
 const chapters12: Chapter[] = [
-  { id: 1, title: "12", url: "https://example.com/chapter-1" },
-  { id: 2, title: "13", url: "https://example.com/chapter-2" },
-  { id: 3, title: "Computer Software", url: "https://example.com/chapter-3" },
-  { id: 4, title: "Operating System", url: "https://example.com/chapter-4" },
-  { id: 5, title: "Application Software", url: "https://example.com/chapter-5" },
-  { id: 6, title: "Programming Concepts", url: "https://example.com/chapter-6" },
-  { id: 7, title: "Web Technology I", url: "https://example.com/chapter-7" }
+  { id: 1, title: "Database Management System (DBMS)", url: "https://drive.google.com/file/d/1LVDiSwQahgu3gU5wC41psUlma21LNQgx/view?usp=sharing" },
+  { id: 2, title: "Data Communication and Networking", url: "https://drive.google.com/file/d/1P2unOR4PZ0DtYFxf1qCMVxX6nzblPX05/view?usp=sharing" },
+  { id: 3, title: "Web Technology-II", url: "https://drive.google.com/file/d/1VpwrQojjIzm8YV-y0Q_d3srppiZyULNd/view?usp=sharing" },
+  { id: 4, title: "Programming-I", url: "https://drive.google.com/file/d/1o7KDtNftl7LrVv5t25feYTGxwPEHbBR5/view?usp=sharing" },
+  { id: 5, title: "OPPS Concept", url: "https://drive.google.com/file/d/1XPZWJla9vNKco1UP6BfmjWTXWcgkAAOA/view?usp=sharing" },
+  { id: 6, title: "Software Process Model", url: "https://drive.google.com/file/d/1Y-mjQQjvsburdb_PikbLFWIDG7AZQouh/view?usp=sharing" }
 ];
 
 export default function Notes({ notes }: { notes: string }) {
